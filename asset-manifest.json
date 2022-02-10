@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/players-manager/static/css/main.3aaeb03d.css",
+    "main.css": "/players-manager/static/css/main.855798d4.css",
     "main.js": "/players-manager/static/js/main.905ec8c6.js",
     "static/js/787.ea02022f.chunk.js": "/players-manager/static/js/787.ea02022f.chunk.js",
     "index.html": "/players-manager/index.html",
-    "main.3aaeb03d.css.map": "/players-manager/static/css/main.3aaeb03d.css.map",
+    "main.855798d4.css.map": "/players-manager/static/css/main.855798d4.css.map",
     "main.905ec8c6.js.map": "/players-manager/static/js/main.905ec8c6.js.map",
     "787.ea02022f.chunk.js.map": "/players-manager/static/js/787.ea02022f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3aaeb03d.css",
+    "static/css/main.855798d4.css",
     "static/js/main.905ec8c6.js"
   ]
 }
