@@ -7,6 +7,10 @@ font-size: 13px;
 a{
   cursor: pointer;
 }
+.table{
+  display: block;
+  overflow-x: scroll;
+}
 .table-wrapper {
   background: #fff;
   padding: 20px 25px;
