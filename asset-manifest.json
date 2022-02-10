@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/players-manager/static/css/main.ae6a7c39.css",
+    "main.js": "/players-manager/static/js/main.905ec8c6.js",
+    "static/js/787.ea02022f.chunk.js": "/players-manager/static/js/787.ea02022f.chunk.js",
+    "index.html": "/players-manager/index.html",
+    "main.ae6a7c39.css.map": "/players-manager/static/css/main.ae6a7c39.css.map",
+    "main.905ec8c6.js.map": "/players-manager/static/js/main.905ec8c6.js.map",
+    "787.ea02022f.chunk.js.map": "/players-manager/static/js/787.ea02022f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6a7c39.css",
+    "static/js/main.905ec8c6.js"
+  ]
+}
